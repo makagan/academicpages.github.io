@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 header:
-  image:
   overlay_filter: "0.5"
   overlay_image: /images/ATLAS_4b_2018.png
   caption: "Photo credit: [**ATLAS**](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/EXOT-2016-31/)"
