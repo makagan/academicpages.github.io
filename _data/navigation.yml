@@ -2,6 +2,9 @@
 main:    
   - title: "About"
     url: /about/
+    
+  - title: "hello"
+    url: /hello/
  
   - title: "People"
     url: /people/ 
