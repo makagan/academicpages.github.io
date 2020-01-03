@@ -34,15 +34,15 @@ redirect_from:
     
     <div class="carousel-inner">
       <div class="item active">
-        <img src="/images/500x300.png" alt="Los Angeles" style="width:50%;">
+        <img class="d-block w-100" src="/images/500x300.png" alt="Los Angeles" style="width:50%;">
       </div>
 
       <div class="item">
-        <img src="/images/bio-photo.jpg" alt="Chicago" style="width:50%;">
+        <img class="d-block w-100" src="/images/bio-photo.jpg" alt="Chicago" style="width:50%;">
       </div>
     
       <div class="item">
-        <img src="/images/bio-photo-2.jpg" alt="New york" style="width:50%;">
+        <img class="d-block w-100" src="/images/bio-photo-2.jpg" alt="New york" style="width:50%;">
       </div>
     </div>
 
