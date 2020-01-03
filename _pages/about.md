@@ -23,7 +23,7 @@ redirect_from:
 
 <div class="container">
   <h2>Carousel Example</h2>  
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <div id="myCarousel" class="carousel slide container" data-ride="carousel">
     
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
