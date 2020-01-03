@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /
 title: "Kagan Group: High Energy Physics + Machine Learning"
 header:
