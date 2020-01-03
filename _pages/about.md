@@ -23,7 +23,7 @@ redirect_from:
 
 <div class="container">
   <h2>Carousel Example</h2>  
-  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width: 400px; margin: 0 auto">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width: 800px; margin: 0 auto">
     
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -34,15 +34,15 @@ redirect_from:
     
     <div class="carousel-inner">
       <div class="item active">
-        <img class="d-block w-100" src="/images/500x300.png" alt="Los Angeles" style="width:50%;">
+        <img class="h-100 d-inline-block" src="/images/500x300.png" alt="Los Angeles" style="width:100%;">
       </div>
 
       <div class="item">
-        <img class="d-block w-100" src="/images/bio-photo.jpg" alt="Chicago" style="width:50%;">
+        <img class="h-100 d-inline-block" src="/images/bio-photo.jpg" alt="Chicago" style="width:100%;">
       </div>
     
       <div class="item">
-        <img class="d-block w-100" src="/images/bio-photo-2.jpg" alt="New york" style="width:50%;">
+        <img class="h-100 d-inline-block" src="/images/bio-photo-2.jpg" alt="New york" style="width:100%;">
       </div>
     </div>
 
