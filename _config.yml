@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kagan Group"
+title                    : "Kagan Group: High Energy Physics + Machine Learning"
 title_separator          : "-"
 name                     : &name "Michael Kagan"
 description              : &description "Panofsky Fellow at SLAC"
