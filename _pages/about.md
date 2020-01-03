@@ -1,11 +1,11 @@
 ---
 layout: single
 permalink: /
-title: "Hello"
+title: "Kagan Group: High Energy Physics + Machine Learning"
 header:
-  overlay_color: "#444"
-  #image: /images/image-alignment-1200x4002.jpg
-excerpt: "About me"
+  #overlay_color: "#444"
+  image: /images/image-alignment-1200x4002.jpg
+#excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
