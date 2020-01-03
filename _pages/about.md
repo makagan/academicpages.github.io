@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Hello"
+header:
+  image: /images/ATLAS_4b_2018.png
 excerpt: "About me"
 author_profile: true
 redirect_from: 
