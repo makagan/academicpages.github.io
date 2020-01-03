@@ -27,15 +27,15 @@ redirect_from:
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
-        <img src="500x300.png" alt="Los Angeles" style="width:50%;">
+        <img src="/images/500x300.png" alt="Los Angeles" style="width:50%;">
       </div>
 
       <div class="item">
-        <img src="bio-photo.jpg" alt="Chicago" style="width:50%;">
+        <img src="/images/bio-photo.jpg" alt="Chicago" style="width:50%;">
       </div>
     
       <div class="item">
-        <img src="bio-photo-2.jpg" alt="New york" style="width:50%;">
+        <img src="/images/bio-photo-2.jpg" alt="New york" style="width:50%;">
       </div>
     </div>
 
