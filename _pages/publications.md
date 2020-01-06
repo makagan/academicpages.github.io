@@ -1,8 +1,6 @@
 ---
 layout: archive
 title: "Publications"
-header:
-  image: /images/ATLAS_4b_2018.png
 permalink: /publications/
 author_profile: true
 ---
