@@ -4,7 +4,7 @@ permalink: /
 title: "Kagan Group: High Energy Physics + Machine Learning"
 header:
   #overlay_color: "#444"
-  image: overview.png
+  image: overview_image.png
   #image: /images/image-alignment-1200x4002.jpg
 #excerpt: "About me"
 author_profile: true
