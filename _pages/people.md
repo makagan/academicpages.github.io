@@ -15,7 +15,7 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
 <div>
-<img class="uk-preserve-width uk-border-circle" src="images/rafael.jpg" width="40" alt="">
+<img class="uk-preserve-width uk-border-circle" data-src="images/rafael.jpg" width="40" alt="" uk-img>
 </div>
 
 ***Postdocs
