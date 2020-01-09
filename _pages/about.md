@@ -21,7 +21,7 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
 
-<div uk-slideshow="animation: push autoplay: true pause-on-hover: true">
+<div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true; min-height: 300; max-height: 600;">
 
 	<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
 
@@ -55,6 +55,8 @@ redirect_from:
 
 </div>
 
+
+Welcome to the Kagan Group
 
 
 
