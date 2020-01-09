@@ -14,7 +14,10 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
-<img src="images/about_slideshow/boosted_hbb.png" alt="" uk-cover>
+
+<div class="uk-width-large">
+	<img src="images/about_slideshow/boosted_hbb.png" alt="" uk-cover>
+</div>
 
 ***Postdocs
 
@@ -29,7 +32,7 @@ redirect_from:
         </thead>
         <tbody>
             <tr>
-                <td><img class="uk-preserve-width uk-border-circle" src="images/rafael.jpg"  alt=""></td>
+                <td><img class="uk-preserve-width uk-border-circle" src="images/rafael.jpg"  alt="hello"></td>
                 <td>Rafael Teixeria De Lima</td>
                 <td>Higgs Physics, Di-Higgs physics, Boosted Higgs tagging, Bottom quark jet tagging algorithms, Hardware accelerated fast inference for ML</td>
             </tr>
