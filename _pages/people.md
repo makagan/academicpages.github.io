@@ -21,7 +21,7 @@ redirect_from:
     <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
         <thead>
             <tr>
-                <th class="uk-table-shrink">People</th>
+                <th class="uk-table-shrink"></th>
                 <th class="uk-table-expand"></th>
                 <th class="uk-table-expand"></th>
             </tr>
