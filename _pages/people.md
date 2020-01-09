@@ -15,6 +15,8 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
 
+<img class="uk-preserve-width uk-border-circle" src="images/rafael.jpg" width="40" alt="">
+
 ***Postdocs
 
 <div class="uk-overflow-auto">
