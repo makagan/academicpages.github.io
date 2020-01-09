@@ -88,7 +88,7 @@ redirect_from:
                 <td>Yoann Boget</td>
                 <td>Uncertainty estimation with deep conditional generative models </td>
 	</tr>
-	
+	</tbody>
     </table>
 	</div>
 
