@@ -28,7 +28,7 @@ redirect_from:
         </thead>
         <tbody>
             <tr>
-                <td><img class="uk-preserve-width uk-border-circle" src="images/rafael.jpeg" width="40" alt=""></td>
+                <td><img class="uk-preserve-width uk-border-circle" src="images/rafael.jpg" width="40" alt=""></td>
                 <td>Rafael Teixeria De Lima</td>
                 <td>Higgs Physics, Di-Higgs physics, Boosted Higgs tagging, Bottom quark jet tagging algorithms, Hardware accelerated fast inference for ML</td>
             </tr>
@@ -42,7 +42,7 @@ redirect_from:
     <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
         <thead>
             <tr>
-                <th class="uk-table-shrink"></th>
+                <th class="uk-table-expand"></th>
                 <th class="uk-table-expand">People</th>
                 <th class="uk-table-expand">Projects</th>
             </tr>
@@ -59,7 +59,7 @@ redirect_from:
                 <td>Jet triggers and fast calibration, Hardware Accelerated Fast Inference for ML</td>
 			</tr>
 			<tr>
-                <td><img class="uk-preserve-width uk-border-circle" src="images/maxime.jpeg" width="40" alt=""></td>
+                <td><img class="uk-preserve-width uk-border-circle" src="images/maxime.jpg" width="40" alt=""></td>
                 <td>Maxime Vandegar (visiting)</td>
                 <td>Likelihood free inference, Measurement decorruption, Invertiable neural networks</td>
             </tr>

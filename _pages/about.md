@@ -12,52 +12,47 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-<div>
-    <style scoped>
         
-		<!-- UIkit CSS -->
-		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
+<!-- UIkit CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
 
-	    <!-- UIkit JS -->
-		<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
-		<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
-    
+<!-- UIkit JS -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
-	<div uk-slideshow="animation: push autoplay: true pause-on-hover: true">
 
-		<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
+<div uk-slideshow="animation: push autoplay: true pause-on-hover: true">
 
-			<ul class="uk-slideshow-items">
-				<li>
-					<img src="images/about_slideshow/hh4b.png" alt="" uk-cover>
-				</li>
-				<li>
-					<img src="images/about_slideshow/rnn.png" alt="" uk-cover>
-				</li>
-				<li>
-					<img src="images/about_slideshow/boosted_hbb.png" alt="" uk-cover>
-				</li>
-				<li>
-					<img src="images/about_slideshow/pivot.png" alt="" uk-cover>
-				</li>
-				<li>
-					<img src="images/about_slideshow/jet_images" alt="" uk-cover>
-				</li>
-				<li>
-					<img src="images/about_slideshow/gen_opt" alt="" uk-cover>
-				</li>
-			</ul>
+	<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
 
-			<a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
-			<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+		<ul class="uk-slideshow-items">
+			<li>
+				<img src="images/about_slideshow/hh4b.png" alt="" uk-cover>
+			</li>
+			<li>
+				<img src="images/about_slideshow/rnn.png" alt="" uk-cover>
+			</li>
+			<li>
+				<img src="images/about_slideshow/boosted_hbb.png" alt="" uk-cover>
+			</li>
+			<li>
+				<img src="images/about_slideshow/pivot.png" alt="" uk-cover>
+			</li>
+			<li>
+				<img src="images/about_slideshow/jet_images" alt="" uk-cover>
+			</li>
+			<li>
+				<img src="images/about_slideshow/gen_opt" alt="" uk-cover>
+			</li>
+		</ul>
 
-		</div>
-
-		<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
+		<a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+		<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
 
 	</div>
-    </style>
+
+	<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
+
 </div>
 
 
