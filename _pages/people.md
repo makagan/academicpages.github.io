@@ -14,9 +14,7 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
-<div>
-<img class="uk-preserve-width uk-border-circle" data-src="images/rafael.jpg" width="40" alt="" uk-img>
-</div>
+<img src="images/about_slideshow/boosted_hbb.png" alt="" uk-cover>
 
 ***Postdocs
 
