@@ -19,7 +19,6 @@ redirect_from:
 
 <div class="uk-overflow-auto">
     <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
-	    
         <thead>
             <tr>
                 <th class="uk-table-shrink">Principle Investigator</th>
@@ -33,8 +32,7 @@ redirect_from:
                 <td>Michael Kagan</td>
                 <td>Hi! I work on... </td>
             </tr>
-        </tbody>
-	    
+        </tbody>  
 	<thead>
             <tr>
                 <th class="uk-table-shrink">Postdocs</th>
@@ -49,7 +47,6 @@ redirect_from:
                 <td>Higgs Physics, Di-Higgs physics, Boosted Higgs tagging, Bottom quark jet tagging algorithms, Hardware accelerated fast inference for ML</td>
             </tr>
         </tbody>
-	
 	<thead>
             <tr>
                 <th class="uk-table-shrink">Students</th>
@@ -73,8 +70,7 @@ redirect_from:
                 <td>Maxime Vandegar (visiting)</td>
                 <td>Likelihood free inference, Measurement decorruption, Invertiable neural networks</td>
             </tr>
-        </tbody>
-	
+        </tbody>	
 	<thead>
             <tr>
                 <th class="uk-table-shrink">Alumni</th>
@@ -162,7 +158,6 @@ redirect_from:
                 <td>Yoann Boget</td>
                 <td>Uncertainty estimation with deep conditional generative models </td>
 	</tr>
-		
         </tbody>
     </table>
 </div>
