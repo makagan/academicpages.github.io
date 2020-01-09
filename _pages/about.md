@@ -21,7 +21,7 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
 
-<div class="uk-container uk-container-large">
+<div class="uk-container uk-container-small">
 <div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true;">
 
 	<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
