@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /about/
+permalink: /
 title: "Kagan Group: High Energy Physics + Machine Learning"
 #header:
   #overlay_color: "#444"
@@ -9,6 +9,7 @@ title: "Kagan Group: High Energy Physics + Machine Learning"
 #excerpt: "About me"
 author_profile: true
 redirect_from: 
+  - /about/
   - /about.html
 ---
         
