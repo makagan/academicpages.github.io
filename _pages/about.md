@@ -56,7 +56,6 @@ redirect_from:
 
 </div>
 </div>
-</iframe>
 </div>
 
 ## Welcome to the Kagan Group
