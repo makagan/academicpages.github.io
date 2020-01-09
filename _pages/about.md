@@ -16,7 +16,7 @@ redirect_from:
 
 
 <div id="myspecialdiv">
-    <iframe width="100%" height="100%" frameborder="0" src="divcontent.html">
+    <iframe width="100%" height="100%" frameborder="0" src="/_pages/divcontent.html">
 
 <div class="uk-container uk-container-small">
 <div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true;">
