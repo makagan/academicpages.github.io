@@ -1,10 +1,9 @@
 # main links links
 main:    
-  - title: "People"
-    url: /people/ 
+  - title: "People" 
     children:
       - title: "Hello"
-        url: /people/hello/
+        url: /people/
     
   - title: "Research"
     url: /research/
