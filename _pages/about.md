@@ -21,11 +21,11 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
 
-<div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true; min-height: 300; max-height: 400;">
+<div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true; ratio: false">
 
 	<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
 
-		<ul class="uk-slideshow-items">
+		<ul class="uk-slideshow-items" uk-height-viewport="offset-top: true; offset-bottom: 30">
 			<li>
 				<img src="images/about_slideshow/hh4b.png" alt="" uk-cover>
 			</li>
