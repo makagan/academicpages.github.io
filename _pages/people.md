@@ -14,8 +14,9 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
-
+<div>
 <img class="uk-preserve-width uk-border-circle" src="images/rafael.jpg" width="40" alt="">
+</div>
 
 ***Postdocs
 
@@ -30,7 +31,7 @@ redirect_from:
         </thead>
         <tbody>
             <tr>
-                <td><img class="uk-preserve-width uk-border-circle" src="images/rafael.jpg" width="40" alt=""></td>
+                <td><img class="uk-preserve-width uk-border-circle" src="images/rafael.jpg"  alt=""></td>
                 <td>Rafael Teixeria De Lima</td>
                 <td>Higgs Physics, Di-Higgs physics, Boosted Higgs tagging, Bottom quark jet tagging algorithms, Hardware accelerated fast inference for ML</td>
             </tr>
@@ -51,7 +52,7 @@ redirect_from:
         </thead>
         <tbody>
             <tr>
-                <td><img class="uk-preserve-width uk-border-circle" src="images/nicole.jpg" width="40" alt=""></td>
+                <td><img class="uk-preserve-width uk-border-circle" src="images/nicole.jpg" width="40" alt="" uk-cover></td>
                 <td>Nicole Hartman</td>
                 <td>Di-Higgs physics, Bottom quark jet tagging algorithms, Sequential and Set based neural networks for jet tagging and combinatorial optimization </td>
 			</tr>
