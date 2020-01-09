@@ -2,6 +2,9 @@
 main:    
   - title: "People"
     url: /people/ 
+    children:
+      - title: "Hello"
+        url: /people/hello/
     
   - title: "Research"
     url: /research/
