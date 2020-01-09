@@ -21,7 +21,7 @@ redirect_from:
     <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
         <thead>
             <tr>
-                <th class="uk-table-shrink"></th>
+                <th class="uk-table-shrink">PI</th>
                 <th class="uk-table-expand"></th>
                 <th class="uk-table-expand"></th>
             </tr>
@@ -33,6 +33,13 @@ redirect_from:
                 <td>Hi! I work on... </td>
             </tr>
         </tbody>
+	<thead>
+            <tr>
+                <th class="uk-table-shrink">Postdocs</th>
+                <th class="uk-table-expand"></th>
+                <th class="uk-table-expand"></th>
+            </tr>
+        </thead>
     </table>
 	</div>
 
