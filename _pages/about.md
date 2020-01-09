@@ -13,54 +13,37 @@ redirect_from:
   - /about.html
 ---
 
-<!-- comment
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<!-- UIkit CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js">
-</script>
-  
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js">
-</script>
+<!-- UIkit JS -->
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
-<div class="container">
-  <h2>Carousel Example</h2>  
-  <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width: 800px; margin: 0 auto">
-    
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-    </ol>
+<div uk-slideshow="animation: push">
 
-    
-    <div class="carousel-inner">
-      <div class="item active">
-        <img class="h-100 d-inline-block" src="/images/500x300.png" alt="Los Angeles" style="width:100%;">
-      </div>
+    <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
 
-      <div class="item">
-        <img class="h-100 d-inline-block" src="/images/bio-photo.jpg" alt="Chicago" style="width:100%;">
-      </div>
-    
-      <div class="item">
-        <img class="h-100 d-inline-block" src="/images/bio-photo-2.jpg" alt="New york" style="width:100%;">
-      </div>
+        <ul class="uk-slideshow-items">
+            <li>
+                <img src="images/rafael.jpg" alt="" uk-cover>
+            </li>
+            <li>
+                <img src="images/nicole.jpg" alt="" uk-cover>
+            </li>
+            <li>
+                <img src="images/rachel.jpg" alt="" uk-cover>
+            </li>
+        </ul>
+
+        <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+        <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+
     </div>
 
-    
-    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div>
+    <ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
+
 </div>
-
--->
-
 
 
 
