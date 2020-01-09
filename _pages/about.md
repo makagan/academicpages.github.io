@@ -18,9 +18,9 @@ redirect_from:
 <div>
     <style scoped>
 	    @import url(https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css)
-	    @import url(https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js)
-	    @import url(https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js)
     </style>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 <div class="uk-container uk-container-small">
 <div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true;">
 
