@@ -16,7 +16,9 @@ redirect_from:
 
 
 <div>
-    <style scoped href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"></style>
+    <style scoped>
+	    @import url(https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css)
+    </style>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 <div class="uk-container uk-container-small">
