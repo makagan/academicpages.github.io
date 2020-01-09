@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: splash
 permalink: /
 title: "Kagan Group: High Energy Physics + Machine Learning"
-header:
+#header:
   #overlay_color: "#444"
-  image: overview_image.png
+  #image: overview_image.png
   #image: /images/image-alignment-1200x4002.jpg
 #excerpt: "About me"
 author_profile: true
@@ -13,38 +13,52 @@ redirect_from:
   - /about.html
 ---
 
-<!-- UIkit CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
+<div>
+    <style scoped>
+        
+		<!-- UIkit CSS -->
+		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
 
-<!-- UIkit JS -->
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
+	    <!-- UIkit JS -->
+		<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+		<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
+    </style>
 
-<div uk-slideshow="animation: push">
+	<div uk-slideshow="animation: push autoplay: true pause-on-hover: true">
 
-    <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
+		<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
 
-        <ul class="uk-slideshow-items">
-            <li>
-                <img src="images/rafael.jpg" alt="" uk-cover>
-            </li>
-            <li>
-                <img src="images/nicole.jpg" alt="" uk-cover>
-            </li>
-            <li>
-                <img src="images/rachel.jpg" alt="" uk-cover>
-            </li>
-        </ul>
+			<ul class="uk-slideshow-items">
+				<li>
+					<img src="images/about_slideshow/hh4b.png" alt="" uk-cover>
+				</li>
+				<li>
+					<img src="images/about_slideshow/rnn.png" alt="" uk-cover>
+				</li>
+				<li>
+					<img src="images/about_slideshow/boosted_hbb.png" alt="" uk-cover>
+				</li>
+				<li>
+					<img src="images/about_slideshow/pivot.png" alt="" uk-cover>
+				</li>
+				<li>
+					<img src="images/about_slideshow/jet_images" alt="" uk-cover>
+				</li>
+				<li>
+					<img src="images/about_slideshow/gen_opt" alt="" uk-cover>
+				</li>
+			</ul>
 
-        <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
-        <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+			<a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+			<a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
 
-    </div>
+		</div>
 
-    <ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
+		<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
+
+	</div>
 
 </div>
-
 
 
 
