@@ -56,7 +56,8 @@ redirect_from:
 </div>
 
 
-Welcome to the Kagan Group
+## Welcome to the Kagan Group
+
 
 
 
