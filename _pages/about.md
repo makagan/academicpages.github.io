@@ -13,13 +13,10 @@ redirect_from:
   - /about.html
 ---
         
-<!-- UIkit CSS -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
 
-<!-- UIkit JS -->
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
+<div id="myspecialdiv">
+    <iframe width="100%" height="100%" frameborder="0" src="divcontent.html">
 
 <div class="uk-container uk-container-small">
 <div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true;">
@@ -55,6 +52,8 @@ redirect_from:
 	<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
 
 </div>
+</div>
+</iframe>
 </div>
 
 ## Welcome to the Kagan Group
