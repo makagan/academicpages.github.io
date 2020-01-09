@@ -21,7 +21,7 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
 
-<div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true; min-height: 300; max-height: 600;">
+<div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true; min-height: 300; max-height: 400;">
 
 	<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
 
@@ -39,10 +39,10 @@ redirect_from:
 				<img src="images/about_slideshow/pivot.png" alt="" uk-cover>
 			</li>
 			<li>
-				<img src="images/about_slideshow/jet_images" alt="" uk-cover>
+				<img src="images/about_slideshow/jet_images.png" alt="" uk-cover>
 			</li>
 			<li>
-				<img src="images/about_slideshow/gen_opt" alt="" uk-cover>
+				<img src="images/about_slideshow/gen_opt.png" alt="" uk-cover>
 			</li>
 		</ul>
 
