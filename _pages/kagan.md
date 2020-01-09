@@ -1,12 +1,10 @@
 ---
 layout: splash
-permalink: /
+permalink: /kagan/
 title: "Kagan Group at SLAC National Laboratory"
-author_profile: true
+author_profile: false
 redirect_from: 
-  - /home/
-  - /home.html
-  -/
+  - /about_kagan/
 ---
 
 
