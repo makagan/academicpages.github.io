@@ -21,11 +21,12 @@ redirect_from:
 <script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 
 
-<div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true; ratio: false">
+<div class="uk-container uk-container-large">
+<div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true;">
 
 	<div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1">
 
-		<ul class="uk-slideshow-items" uk-height-viewport="offset-top: true; offset-bottom: 30">
+		<ul class="uk-slideshow-items">
 			<li>
 				<img src="images/about_slideshow/hh4b.png" alt="" uk-cover>
 			</li>
@@ -54,7 +55,7 @@ redirect_from:
 	<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
 
 </div>
-
+</div>
 
 ## Welcome to the Kagan Group
 
