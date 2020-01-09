@@ -22,7 +22,7 @@ redirect_from:
 	    <!-- UIkit JS -->
 		<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
 		<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
-    </style>
+    
 
 	<div uk-slideshow="animation: push autoplay: true pause-on-hover: true">
 
@@ -57,7 +57,7 @@ redirect_from:
 		<ul class="uk-slideshow-nav uk-dotnav uk-flex-center uk-margin"></ul>
 
 	</div>
-
+    </style>
 </div>
 
 
