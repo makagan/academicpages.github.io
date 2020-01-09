@@ -15,9 +15,12 @@ redirect_from:
         
 
 
-<div id="myspecialdiv">
-    <iframe width="100%" height="100%" frameborder="0" src="/_pages/divcontent.html">
-
+<div>
+    <style scoped>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css" />
+    </style>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
 <div class="uk-container uk-container-small">
 <div uk-slideshow="animation: fade; autoplay: true; pause-on-hover: true;">
 
