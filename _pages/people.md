@@ -19,13 +19,6 @@ redirect_from:
 
 <div class="uk-overflow-auto">
     <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
-        <thead>
-            <tr>
-                <th class="uk-table-shrink"></th>
-                <th class="uk-table-expand"></th>
-                <th class="uk-table-expand"></th>
-            </tr>
-        </thead>
         <tbody>
             <tr>
                 <td><img class="uk-preserve-width uk-border-circle" src="../images/IMG-20190426-WA0000.jpg"  width="40" alt=""></td>
