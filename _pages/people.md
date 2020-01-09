@@ -23,7 +23,7 @@ redirect_from:
 ## Postdocs
 
 <div class="uk-overflow-auto">
-    <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
+    <table class="uk-table uk-table-hover uk-table-middle uk-table-divider uk-text-large">
         <thead>
             <tr>
                 <th class="uk-table-shrink">People</th>
