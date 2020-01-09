@@ -19,9 +19,10 @@ redirect_from:
 
 <div class="uk-overflow-auto">
     <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
+	    
         <thead>
             <tr>
-                <th class="uk-table-shrink">PI</th>
+                <th class="uk-table-shrink">Principle Investigator</th>
                 <th class="uk-table-expand"></th>
                 <th class="uk-table-expand"></th>
             </tr>
@@ -33,13 +34,61 @@ redirect_from:
                 <td>Hi! I work on... </td>
             </tr>
         </tbody>
+	    
 	<thead>
             <tr>
                 <th class="uk-table-shrink">Postdocs</th>
                 <th class="uk-table-expand"></th>
                 <th class="uk-table-expand"></th>
             </tr>
-        </thead>
+	</thead>
+	<tbody>
+            <tr>
+                <td><img class="uk-preserve-width uk-border-circle" src="../images/rafael.jpg"  width="40" alt=""></td>
+                <td>Rafael Teixeria De Lima</td>
+                <td>Higgs Physics, Di-Higgs physics, Boosted Higgs tagging, Bottom quark jet tagging algorithms, Hardware accelerated fast inference for ML</td>
+            </tr>
+        </tbody>
+	
+	<thead>
+            <tr>
+                <th class="uk-table-shrink">Students</th>
+                <th class="uk-table-expand"></th>
+                <th class="uk-table-expand"></th>
+            </tr>
+	</thead>
+        <tbody>
+            <tr>
+                <td><img class="uk-preserve-width uk-border-circle" src="../images/nicole.jpg" width="40" alt=""></td>
+                <td>Nicole Hartman</td>
+                <td>Di-Higgs physics, Bottom quark jet tagging algorithms, Sequential and Set based neural networks for jet tagging and combinatorial optimization </td>
+			</tr>
+			<tr>
+                <td><img class="uk-preserve-width uk-border-circle" src="../images/rachel.jpg" width="40" alt=""></td>
+                <td>Rachel Smith</td>
+                <td>Jet triggers and fast calibration, Hardware Accelerated Fast Inference for ML</td>
+			</tr>
+			<tr>
+                <td><img class="uk-preserve-width uk-border-circle" src="../images/maxime.jpg" width="40" alt=""></td>
+                <td>Maxime Vandegar (visiting)</td>
+                <td>Likelihood free inference, Measurement decorruption, Invertiable neural networks</td>
+            </tr>
+        </tbody>
+	
+	<thead>
+            <tr>
+                <th class="uk-table-shrink">Alumni</th>
+                <th class="uk-table-expand"></th>
+                <th class="uk-table-expand"></th>
+            </tr>
+	</thead>
+	<tbody>
+            <tr>
+                <td><img class="uk-preserve-width uk-border-circle" src="../images/yoann.jpg" width="40" alt=""></td>
+                <td>Yoann Boget</td>
+                <td>Uncertainty estimation with deep conditional generative models </td>
+	</tr>
+	
     </table>
 	</div>
 
