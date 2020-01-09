@@ -17,6 +17,8 @@ redirect_from:
 
 ## Principle Investigator
 
+<img class="uk-preserve-width uk-border-circle" src="../images/IMG-20190426-WA0000.jpg"  width="40" alt="">
+
 <div class="uk-overflow-auto">
     <table class="uk-table uk-table-hover uk-table-middle uk-table-divider">
         <tbody>
