@@ -16,7 +16,7 @@ redirect_from:
 
 
 <div class="uk-width-large">
-	<img src="images/about_slideshow/boosted_hbb.png" alt="" uk-cover>
+	<img src="images/about_slideshow/boosted_hbb.png" alt="ATL" uk-cover>
 </div>
 
 ***Postdocs
