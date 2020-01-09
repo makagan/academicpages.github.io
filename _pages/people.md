@@ -28,7 +28,7 @@ redirect_from:
         </thead>
         <tbody>
             <tr>
-                <td><img class="uk-preserve-width uk-border-circle" src="../images/IMG-20190426-WA0000.jpg"  alt=""></td>
+                <td><img class="uk-preserve-width uk-border-circle" src="../images/IMG-20190426-WA0000.jpg"  width="40" alt=""></td>
                 <td>Michael Kagan</td>
                 <td>Hi! I work on... </td>
             </tr>
@@ -49,7 +49,7 @@ redirect_from:
         </thead>
         <tbody>
             <tr>
-                <td><img class="uk-preserve-width uk-border-circle" src="../images/rafael.jpg"  alt=""></td>
+                <td><img class="uk-preserve-width uk-border-circle" src="../images/rafael.jpg"  width="40" alt=""></td>
                 <td>Rafael Teixeria De Lima</td>
                 <td>Higgs Physics, Di-Higgs physics, Boosted Higgs tagging, Bottom quark jet tagging algorithms, Hardware accelerated fast inference for ML</td>
             </tr>
