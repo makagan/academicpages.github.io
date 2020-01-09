@@ -1,9 +1,10 @@
 # main links links
 main:    
+  - title: "About Michael"
+    url: /about/
+  
   - title: "People" 
-    children:
-      - title: "Hello"
-        url: /people/
+    url: /people/
     
   - title: "Research"
     url: /research/
