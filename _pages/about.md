@@ -2,9 +2,9 @@
 layout: splash
 permalink: /
 title: "Kagan Group: High Energy Physics + Machine Learning"
-tagline: "Kagan Group: High Energy Physics + Machine Learning."
+tagline: "Welcome to the Kagan Group: High Energy Physics + Machine Learning."
 header:
-  overlay_image: atlas_bw.jpg
+  image: atlas_bw.jpg
   caption: "Photo credit: [**M. Brice &copy; CERN**](https://cds.cern.ch/record/910380)"
 author_profile: false
 redirect_from: 
