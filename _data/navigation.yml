@@ -1,7 +1,10 @@
 # main links links
 main:    
-  - title: "People"
-    url: /people/ 
+  - title: "About Michael"
+    url: /kagan/
+  
+  - title: "People" 
+    url: /people/
     
   - title: "Research"
     url: /research/

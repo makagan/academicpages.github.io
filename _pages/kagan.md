@@ -1,13 +1,10 @@
 ---
-permalink: /
+layout: splash
+permalink: /kagan/
 title: "Kagan Group at SLAC National Laboratory"
-header:
-  image: /images/ATLAS_4b_2018.png
-author_profile: true
+author_profile: false
 redirect_from: 
-  - /home/
-  - /home.html
-  -/
+  - /about_kagan/
 ---
 
 
