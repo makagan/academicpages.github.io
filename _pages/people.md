@@ -23,7 +23,7 @@ redirect_from:
 
 ## Postdocs
 
-![image-left]({{ site.url }}{{ site.baseurl }}/imagesrafael.jpg){: .align-left width="150px"} Dr. Rafael Teixeira De Lima  <br /> Ph. D.  from Northeastern University <br /> <br /> Higgs Physics, Di-Higgs physics <br /> Boosted Higgs tagging, Bottom Quark jet Tagging  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/rafael.jpg){: .align-left width="150px"} Dr. Rafael Teixeira De Lima  <br /> Ph. D.  from Northeastern University <br /> <br /> Higgs Physics, Di-Higgs physics <br /> Boosted Higgs tagging, Bottom Quark jet Tagging  
 
 
 <br />
