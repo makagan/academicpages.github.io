@@ -13,7 +13,7 @@ redirect_from:
 ## Principle Investigator
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/IMG-20190426-WA0000.jpg){: .align-left width="150px"} Michael Kagan  <br /> Panofsky Fellow  <br /> SLAC National Accelerator Laboratory  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/IMG-20190426-WA0000.jpg){: .align-left width="150px"} [Michael Kagan](/kagan/)  <br /> Panofsky Fellow  <br /> SLAC National Accelerator Laboratory  
 
 
 <br />
