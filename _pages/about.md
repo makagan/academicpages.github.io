@@ -3,7 +3,6 @@ layout: splash
 permalink: /
 title: " High Energy Physics <br /> + Machine Learning"
 header:
-  overlay_color: maroon
   overlay_image: atlas_bw.jpg
   caption: "Photo credit: [**M. Brice &copy; CERN**](https://cds.cern.ch/record/910380)"
 author_profile: false

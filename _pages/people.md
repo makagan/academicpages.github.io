@@ -28,6 +28,7 @@ redirect_from:
 <br />
 <br />
 <br />
+<br />
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/hyneman.jpg){: .align-left width="150px"} Dr. Rachel Hyneman  <br /> Ph. D. in Physics from the University of Michigan  
 
