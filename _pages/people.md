@@ -27,7 +27,6 @@ redirect_from:
 
 <br />
 <br />
-<br />
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/hyneman.jpg){: .align-left width="150px"} Dr. Rachel Hyneman  <br /> Ph. D.  from the University of Michigan <br /> <br /> Research Topics: <br /> Higgs Physics, Di-Higgs Physics, Di-Photon Physics  <br /> Gaussian Processes  
 
@@ -40,7 +39,6 @@ redirect_from:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> <br /> Research Topics: <br /> Di-Higgs physics <br /> Graph Based Event Reconstruction, Density Estimate with Deep genertive Models <br /> Bottom Quark Jet Tagging with Sequence and Set Based Neural Networks  
 
-<br />
 <br />
 <br />
 
@@ -56,5 +54,11 @@ redirect_from:
 
 <br />
 <br />
-<br />
+
+
+## Alumni
+
+Yoann Boget <br />
+Visiting Master Student from the University of Neuchatel <br />
+Currently: Ph.D. Student at the University of Geneva <br />
 
