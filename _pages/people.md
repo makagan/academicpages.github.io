@@ -26,9 +26,12 @@ redirect_from:
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/rafael.jpg){: .align-left width="150px"} Dr. Rafael Teixeira De Lima  <br /> Ph. D.  in Physics from Northeastern University  
 
 <br />
+<br />
+<br />
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/hyneman.jpg){: .align-left width="150px"} Dr. Rachel Hyneman  <br /> Ph. D. in Physics from the University of Michigan  
 
+<br />
 <br />
 <br />
 
@@ -37,9 +40,12 @@ redirect_from:
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> Physics
 
 <br />
+<br />
+<br />
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/rachel.jpg){: .align-left width="150px"} Rachel Smith <br /> Physics
 
+<br />
 <br />
 <br />
 
@@ -47,6 +53,7 @@ redirect_from:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/maxime.jpg){: .align-left width="150px"} Maxime Vandegar  <br /> M.Sc. in Machine Learning from the University of Liege
 
+<br />
 <br />
 <br />
 
