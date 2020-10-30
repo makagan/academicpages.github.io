@@ -23,25 +23,38 @@ redirect_from:
 
 ## Postdocs
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/rafael.jpg){: .align-left width="150px"} Dr. Rafael Teixeira De Lima  <br /> Ph. D.  from Northeastern University <br /> <br /> Higgs Physics, Di-Higgs physics <br /> Boosted Higgs tagging, Bottom Quark jet Tagging  
-
+![image-left]({{ site.url }}{{ site.baseurl }}/images/rafael.jpg){: .align-left width="150px"} Dr. Rafael Teixeira De Lima  <br /> Ph. D.  from Northeastern University <br /> <br /> Research Topics: <br /> Higgs Physics, Di-Higgs physics <br /> Boosted Higgs tagging, Bottom Quark jet Tagging <br /> Sequential and Set Based Neural Networks for Jet Tagging  
 
 <br />
 <br />
 <br />
 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/hyneman.jpg){: .align-left width="150px"} Dr. Rachel Hyneman  <br /> Ph. D.  from the University of Michigan <br /> <br /> Research Topics: <br /> Higgs Physics, Di-Higgs Physics <br /> Di-Photon Physics, Gaussian Processes  
 
-:----: | :----: | :-----
-<img src="../images/rafael.jpg"  width="100" alt=""> | Dr. Rafael Teixeira de Lima |  Higgs Physics, Di-Higgs physics, Boosted Higgs tagging, Bottom Quark jet Tagging
-<img src="../images/hyneman.jpg"  width="100" alt=""> | Dr. Rachel Hyneman |  Higgs Physics, Di-Higgs physics, Di-Photon Physics, Gaussian Processes
+<br />
+<br />
+<br />
+
 
 ## Students
 
-:----: | :----: | :-----
-<img src="../images/nicole.jpg"  width="100" alt=""> | Nicole Hartman |  Di-Higgs physics, Bottom Quark Jet Tagging, Sequential and Set neural networks, Combinatorial Optimization
-<img src="../images/rachel.jpg"  width="100" alt=""> | Rachel Smith | Online  Bottom Quark Jet Tagging, Online Beam Spot
+![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> <br /> <br /> Research Topics: <br /> Di-Higgs physics <br /> Bottom Quark Jet Tagging with Sequence and Set Based Neural Networks <br /> Graph Based Event Reconstruction  
+
+<br />
+<br />
+<br />
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/rachel.jpg){: .align-left width="150px"} Rachel Smith  <br /> <br /> <br /> Research Topics: <br /> Online  Bottom Quark Jet Tagging, Online Beam Spot  
+
+<br />
+<br />
+<br />
 
 ## Researchers
 
-:----: | :----: | :-----
-<img src="../images/maxime.jpg"  width="100" alt=""> | Maxime Vandegar | Likelihood free inference, Measurement decorruption, Invertiable neural networks
+![image-left]({{ site.url }}{{ site.baseurl }}/images/maxime.jpg){: .align-left width="150px"} Maxime Vandegar  <br /> M.Sc. from the University of Liege<br /> <br /> Research Topics: <br />  Simulation Based Inference <br /> Measurement Decorruption <br /> Invertiable Neural Networks
+
+<br />
+<br />
+<br />
+
