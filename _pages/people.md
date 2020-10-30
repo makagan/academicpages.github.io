@@ -29,7 +29,7 @@ redirect_from:
 <br />
 <br />
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/hyneman.jpg){: .align-left width="150px"} Dr. Rachel Hyneman  <br /> Ph. D.  from the University of Michigan <br /> <br /> Research Topics: <br /> Higgs Physics, Di-Higgs Physics <br /> Di-Photon Physics, Gaussian Processes  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/hyneman.jpg){: .align-left width="150px"} Dr. Rachel Hyneman  <br /> Ph. D.  from the University of Michigan <br /> <br /> Research Topics: <br /> Higgs Physics, Di-Higgs Physics, Di-Photon Physics  <br /> Gaussian Processes  
 
 <br />
 <br />
@@ -38,13 +38,13 @@ redirect_from:
 
 ## Students
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> <br /> <br /> Research Topics: <br /> Di-Higgs physics <br /> Bottom Quark Jet Tagging with Sequence and Set Based Neural Networks <br /> Graph Based Event Reconstruction  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> <br /> Research Topics: <br /> Di-Higgs physics <br /> Graph Based Event Reconstruction, Density Estimate with Deep genertive Models <br /> Bottom Quark Jet Tagging with Sequence and Set Based Neural Networks  
 
 <br />
 <br />
 <br />
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/rachel.jpg){: .align-left width="150px"} Rachel Smith  <br /> <br /> <br /> Research Topics: <br /> Online  Bottom Quark Jet Tagging, Online Beam Spot  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/rachel.jpg){: .align-left width="150px"} Rachel Smith  <br /> <br /> Research Topics: <br /> Online  Bottom Quark Jet Tagging, Online Beam Spot  
 
 <br />
 <br />
@@ -52,7 +52,7 @@ redirect_from:
 
 ## Researchers
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/maxime.jpg){: .align-left width="150px"} Maxime Vandegar  <br /> M.Sc. from the University of Liege<br /> <br /> Research Topics: <br />  Simulation Based Inference <br /> Measurement Decorruption <br /> Invertiable Neural Networks
+![image-left]({{ site.url }}{{ site.baseurl }}/images/maxime.jpg){: .align-left width="150px"} Maxime Vandegar  <br /> M.Sc. from the University of Liege<br /> <br /> Research Topics: <br />  Simulation Based Inference, Measurement Decorruption <br /> Invertiable Neural Networks
 
 <br />
 <br />
