@@ -1,8 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "High Energy Physics
-+ Machine Learning"
+title: "High Energy Physics <br /> + Machine Learning"
 header:
   overlay_image: atlas_bw.jpg
   caption: "Photo credit: [**M. Brice &copy; CERN**](https://cds.cern.ch/record/910380)"
