@@ -52,7 +52,6 @@ redirect_from:
 
 ## Alumni
 
-Yoann Boget <br />
-Visiting Master Student from the University of Neuchatel <br />
+Yoann Boget - Visiting Master Student from the University of Neuchatel <br />
 Currently: Ph.D. Student at the University of Geneva <br />
 
