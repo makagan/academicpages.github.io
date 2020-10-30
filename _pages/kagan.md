@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 permalink: /kagan/
 title: "Kagan Group at SLAC National Laboratory"
 author_profile: false
