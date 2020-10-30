@@ -1,9 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Michael Kagan"
-tagline: "Welcome to the Kagan Group:
-              High Energy Physics + Machine Learning."
+title: "High Energy Physics + Machine Learning."
 header:
   overlay_image: atlas_bw.jpg
   caption: "Photo credit: [**M. Brice &copy; CERN**](https://cds.cern.ch/record/910380)"
@@ -17,13 +15,13 @@ redirect_from:
 
 
 
-## Ongoing Research
+# Ongoing Research
 
-# Higgs Physics
+## Higgs Physics
 
-# Bottom Quark Jets
+## Bottom Quark Jets
 
-# Simulators + Machine Learning
+## Simulators + Machine Learning
 
 
 
