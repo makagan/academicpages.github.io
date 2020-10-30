@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-title: "Kagan Group @ SLAC <br /> High Energy Physics <br /> + Machine Learning"
+title: "Kagan Group @ SLAC: <br /> High Energy Physics <br /> + Machine Learning"
 header:
   overlay_image: atlas_bw.jpg
   caption: "Photo credit: [**M. Brice &copy; CERN**](https://cds.cern.ch/record/910380)"
