@@ -26,7 +26,6 @@ redirect_from:
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/rafael.jpg){: .align-left width="150px"} Dr. Rafael Teixeira De Lima  <br /> Ph. D.  from Northeastern University <br /> <br /> Research Topics: <br /> Higgs Physics, Di-Higgs physics <br /> Boosted Higgs tagging, Bottom Quark jet Tagging <br /> Sequential and Set Based Neural Networks for Jet Tagging  
 
 <br />
-<br />
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/hyneman.jpg){: .align-left width="150px"} Dr. Rachel Hyneman  <br /> Ph. D.  from the University of Michigan <br /> <br /> Research Topics: <br /> Higgs Physics, Di-Higgs Physics, Di-Photon Physics  <br /> Gaussian Processes  
 
@@ -37,9 +36,8 @@ redirect_from:
 
 ## Students
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> <br /> Research Topics: <br /> Di-Higgs physics <br /> Graph Based Event Reconstruction, Density Estimate with Deep genertive Models <br /> Bottom Quark Jet Tagging with Sequence and Set Based Neural Networks  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> <br /> Research Topics: <br /> Di-Higgs physics <br /> Graph Neural Networks for Event Reconstruction, Neural Density Estimation <br /> Bottom Quark Jet Tagging with Sequence and Set Based Neural Networks  
 
-<br />
 <br />
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/rachel.jpg){: .align-left width="150px"} Rachel Smith  <br /> <br /> Research Topics: <br /> Online  Bottom Quark Jet Tagging, Online Beam Spot  
@@ -54,7 +52,7 @@ redirect_from:
 
 <br />
 <br />
-
+<br />
 
 ## Alumni
 
