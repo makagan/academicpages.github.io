@@ -31,12 +31,10 @@ redirect_from:
 
 <br />
 <br />
-<br />
-
 
 ## Students
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> <br /> Research Topics: <br /> Di-Higgs physics <br /> Graph Neural Networks for Event Reconstruction, Neural Density Estimation <br /> Bottom Quark Jet Tagging with Sequence and Set Based Neural Networks  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/nicole.jpg){: .align-left width="150px"} Nicole Hartman  <br /> <br /> Research Topics: <br /> Di-Higgs physics <br /> GNNs for Event Reconstruction, Neural Density Estimation <br /> Bottom Quark Jet Tagging with RNNs and DeepSets  
 
 <br />
 
@@ -44,13 +42,11 @@ redirect_from:
 
 <br />
 <br />
-<br />
 
 ## Researchers
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/maxime.jpg){: .align-left width="150px"} Maxime Vandegar  <br /> M.Sc. from the University of Liege<br /> <br /> Research Topics: <br />  Simulation Based Inference, Measurement Decorruption <br /> Invertiable Neural Networks
 
-<br />
 <br />
 <br />
 
