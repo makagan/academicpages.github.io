@@ -8,7 +8,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Michael Kagan"
+title                    : "Kagan Group @ SLAC"
 title_separator          : "-"
 name                     : &name "Michael Kagan"
 description              : &description "Panofsky Fellow at SLAC"
