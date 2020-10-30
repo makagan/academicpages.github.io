@@ -8,12 +8,13 @@
  *  - mademistakes.com
  *  - https://twitter.com/mmistakes
  *
-*/
+ */
+
+$link-color: maroon;
 
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
-$link-color: maroon;
 
 @import "vendor/susy/susy";
 

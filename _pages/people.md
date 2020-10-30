@@ -38,7 +38,7 @@ redirect_from:
 
 <br />
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/rachel.jpg){: .align-left width="150px"} Rachel Smith  <br /> <br /> Research Topics: <br /> Online  Bottom Quark Jet Tagging, Online Beam Spot  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/rachel.jpg){: .align-left width="150px"} Rachel Smith  <br /> <br /> Research Topics: <br /> Online  Bottom Quark Jet Tagging <br /> Online Beam Spot  
 
 <br />
 <br />
