@@ -14,7 +14,7 @@ redirect_from:
 
 <img src="../images/IMG-20190426-WA0000.jpg"  width="100" alt="">
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/IMG-20190426-WA0000.jpg){: .align-left width=100} Michael Kagan  <br /> Panofsky Fellow  <br /> SLAC National Accelerator Laboratory
+![image-left]({{ site.url }}{{ site.baseurl }}/images/IMG-20190426-WA0000.jpg){: .align-left width="100px"} Michael Kagan  <br /> Panofsky Fellow  <br /> SLAC National Accelerator Laboratory
 
 
 ## Postdocs
