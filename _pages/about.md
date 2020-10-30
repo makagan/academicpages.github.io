@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 title: "Kagan Group: High Energy Physics + Machine Learning"
 header:
-  image: /images/atlas_bw.pdf
+  image: /images/atlas_bw.jpg
 excerpt: "About me"
 author_profile: false
 redirect_from: 
