@@ -59,6 +59,9 @@ G. Louppe, M. Kagan, and K. Cranmer, *Learning to Pivot with Adversarial Network
 
 ATLAS Collaboration, *Search for heavy resonances decaying to a W or Z boson and a Higgs boson in the qqbb final state in pp collisions at sqrt(s)=13 TeV with the ATLAS detector.* Phys. Lett. B 774 (2017) 494. [[paper](https://www.sciencedirect.com/science/article/pii/S0370269317307785?via%3Dihub)] [[arXiv](https://arxiv.org/abs/1707.06958)]
 
+
+ATLAS Collaboration, *Identification of Jets Containing b-Hadrons with Recurrent Neural Networks at the ATLAS Experiment.* Presented by Z. Jiang at Connecting The Dots Workshop (2017). [[ATLAS technical report](https://cds.cern.ch/record/2255226?ln=en)].
+
 <br />
 
 #### 2016
