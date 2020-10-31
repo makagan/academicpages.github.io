@@ -5,10 +5,7 @@ main:
     url: /people/
     
   - title: "Publications"
-    url: /publications/
-    
-  - title: "Talks"
-    url: /talks/    
+    url: /publications/  
 
   - title: "News"
     url: /News/

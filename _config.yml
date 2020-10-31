@@ -8,8 +8,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kagan Group <br /> SLAC"
+title                    : "Kagan Group"
 title_separator          : "-"
+subtitle                 : "SLAC National Laboratory"
 name                     : &name "Michael Kagan"
 description              : &description "Panofsky Fellow at SLAC"
 url                      : https://makagan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
