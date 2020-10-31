@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-#### 2020
+### 2020
 
 S. Shirobokov, V. Belavin, M. Kagan, A. Ustyuzhanin, A. Gunes Baydin, *Black-Box Optimization with Local Generative Surrogates.* Accepted at NeurIPS 2020. [[arXiv](https://arxiv.org/abs/2002.04632)]
 
@@ -22,7 +22,7 @@ N. Hartman, R. Teixeira de Lima, M. Kagan, on behalf of the ATLAS Collaboration,
 
 <br />
 
-#### 2019
+### 2019
 
 ATLAS Collaboration, *ATLAS b-jet identification performance and efficiency measurement with tt events in pp collisions at sqrt(s)=13 TeV*, EPJC 79 (2019) 970. [[paper](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-019-7450-8)] [[arXiv](https://arxiv.org/abs/1907.05120)]
 
@@ -41,7 +41,7 @@ J. Albrecht, ..., M. Kagan, ..., E. Yazgan (HEP Software Foundation), *A Roadmap
 
 <br />
 
-#### 2018
+### 2018
 
 A. Radovic, M. Williams, D. Rousseau, M. Kagan, D. Bonacorsi, A. Himmel, A. Aurisano, K. Terao and T. Wongjirad, *Machine learning at the energy and intensity frontiers of particle physics*, Nature 560, 41-18 (2018). [[paper](https://www.nature.com/articles/s41586-018-0361-2)]
 
@@ -52,7 +52,7 @@ M. Kagan, *Di-Higgs results from the ATLAS and CMS experiments*, Proceedings of 
 
 <br />
 
-#### 2017
+### 2017
 
 G. Louppe, M. Kagan, and K. Cranmer, *Learning to Pivot with Adversarial Networks*, NeurIPS 2017. [[paper](https://papers.nips.cc/paper/6699-learning-to-pivot-with-adversarial-networks)] [[arXiv](https://arxiv.org/abs/1611.01046)] [[code](https://github.com/glouppe/paper-learning-to-pivot)]
 
@@ -64,7 +64,7 @@ ATLAS Collaboration, *Identification of Jets Containing b-Hadrons with Recurrent
 
 <br />
 
-#### 2016
+### 2016
 
 L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, *Jet-Images - Deep Learning Edition*, JHEP 07 (2016) 069. [[paper](https://link.springer.com/article/10.1007%2FJHEP07%282016%29069)] [[arXiv](https://arxiv.org/abs/1511.05190)]
 
@@ -76,7 +76,7 @@ ATLAS Collaboration, *Performance of b-Jet Identification in the ATLAS Experimen
 
 <br />
 
-#### 2015
+### 2015
 
 J. Cogan, M. Kagan, E. Strauss, and A. Schwartzman, *Jet-Images: Computer Vision Inspired Techniques for Jet Tagging.* JHEP 02 (2015) 118. [[paper](https://link.springer.com/article/10.1007%2FJHEP02%282015%29118)] [[arXiv](https://arxiv.org/abs/1407.5675)]
 
@@ -85,7 +85,7 @@ ATLAS Collaboration, *Search for Higgs boson pair production in the bbbb final s
 
 <br />
 
-#### 2012
+### 2012
 
 ATLAS Collaboration, *Measurement of the WZ production cross section and limits on anomalous triple gauge couplings in proton-proton collisions at sqrt(s) = 7 TeV with the ATLAS detector.* Phys. Lett. B 709 (2012) 341-357. [[paper](https://www.sciencedirect.com/science/article/pii/S0370269312001943?via%3Dihub)] [[arXiv](https://arxiv.org/abs/1111.5570)]
 
@@ -94,19 +94,19 @@ ATLAS Collaboration, *Measurement of the transverse momentum distribution of W b
 
 <br />
 
-#### 2011
+### 2011
 
 K. Black, J. Gallicchio, J. Huth, M. Kagan, M. Schwartz, B. Tweedie, *Multivariate discrimination and the Higgs + W/Z search*, JHEP 1104:069, (2011). [[paper](https://link.springer.com/article/10.1007%2FJHEP04%282011%29069)] [[arXiv](https://arxiv.org/abs/1010.3698)]
 
 <br />
 
-#### 2010
+### 2010
 
 ATLAS Collaboration, *Measurement of the W->lnu and Z/gamma->ll production cross sections in proton-proton collisions at sqrt(s) = 7 TeV with the ATLAS detector.* JHEP 1012 (2010) 060. [[paper](https://link.springer.com/article/10.1007%2FJHEP12%282010%29060)] [arXiv](https://arxiv.org/abs/1010.2130)]
 
 <br />
 
-#### 2008
+### 2008
 
 CDF Collaboration, *Limits on the Production of Narrow t-tbar Resonances in p-pbar Collisions at sqrt(s)=1.96 TeV.* Phys.Rev.D77:051102 (2008). [[paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.051102)] [arXiv](https://arxiv.org/abs/0710.5335)]
 
