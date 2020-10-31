@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-# Ongoing Research
+# Research Themes
 
 ## Higgs Physics
 
@@ -28,7 +28,7 @@ redirect_from:
 <br />
 <br />
 
-## Bottom Quark Jet Tagging
+## Bottom Quark Jet Identificaton
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/DIPS.png){: .align-left width="250px"}
 
@@ -42,8 +42,40 @@ redirect_from:
 <br />
 <br />
 
-## Simulators + Machine Learning
+## Simulation Based Inference and Black Box Optimization
 
 
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 
+## Differentiable Simulators
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+
+## Gaussian Processes for Background Estimation
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
