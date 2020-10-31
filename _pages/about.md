@@ -19,7 +19,11 @@ redirect_from:
 
 ## Higgs Physics
 
-## Bottom Quark Jets
+![image-left]({{ site.url }}{{ site.baseurl }}/images/ATLAS_4b_2018.png){: .align-left width="250px"}
+
+## Bottom Quark Jet Tagging
+
+![image-left]({{ site.url }}{{ site.baseurl }}/images/DIPS.png){: .align-left width="250px"}
 
 ## Simulators + Machine Learning
 
