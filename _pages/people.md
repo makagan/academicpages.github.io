@@ -13,7 +13,7 @@ redirect_from:
 ## Principle Investigator
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/IMG-20190426-WA0000.jpg){: .align-left width="150px"} [Michael Kagan](/kagan/)  <br /> Panofsky Fellow  <br /> SLAC National Accelerator Laboratory  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/IMG-20190426-WA0000.jpg){: .align-left width="150px"} [Michael Kagan](/kagan/)  <br /> Panofsky Fellow  <br /> SLAC National Accelerator Laboratory <br /> <ul class="author__urls social-icons"><li><a href="https://github.com/makagan"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li><li><a href="http://yourfullgooglescholarurl.com"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li></ul>  
 
 
 <br />
