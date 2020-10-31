@@ -12,7 +12,7 @@ redirect_from:
 
 #### 2020
 
-S. Shirobokov, V. Belavin, M. Kagan, A. Ustyuzhanin, A. Gunes Baydin, *Differentiating the Black-Box: Optimization with Local Generative Surrogates.* Accepted at NeurIPS 2020. [[arXiv](https://arxiv.org/abs/2002.04632)]
+S. Shirobokov, V. Belavin, M. Kagan, A. Ustyuzhanin, A. Gunes Baydin, *Black-Box Optimization with Local Generative Surrogates.* Accepted at NeurIPS 2020. [[arXiv](https://arxiv.org/abs/2002.04632)]
 
 
 B. Di Marco, ..., M. Kagan, ..., R. Teixeira De Lima, ..., J. Zurita, *Higgs boson potential at colliders: Status and perspectives.*  Reviews in Physics (2020) 100045. [[paper](https://www.sciencedirect.com/science/article/pii/S2405428320300083?via%3Dihub)] [[arXiv](https://arxiv.org/abs/1910.00012)]
