@@ -21,9 +21,18 @@ redirect_from:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/ATLAS_4b_2018.png){: .align-left width="250px"}
 
+<br />
+<br />
+<br />
+
 ## Bottom Quark Jet Tagging
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/images/DIPS.png){: .align-left width="250px"}
+
+
+<br />
+<br />
+<br />
 
 ## Simulators + Machine Learning
 
