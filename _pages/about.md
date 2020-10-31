@@ -9,13 +9,13 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
-  -/home/
 ---
         
 
 
-# Research Themes
 
+
+# Research Themes
 
 ## Higgs Physics
 
@@ -42,7 +42,7 @@ redirect_from:
 <br />
 <br />
 
-## Simulation Based Inference and Black Box Optimization
+## Simulator Based Inference and Black Box Optimization
 
 
 <br />
