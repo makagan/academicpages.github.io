@@ -103,7 +103,7 @@ ATLAS Collaboration, *Measurement of the W->lnu and Z/gamma->ll production cross
 
 <br />
 
-#### 2010
+#### 2008
 
 CDF Collaboration, *Limits on the Production of Narrow t-tbar Resonances in p-pbar Collisions at sqrt(s)=1.96 TeV.* Phys.Rev.D77:051102 (2008). [[paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.77.051102)] [arXiv](https://arxiv.org/abs/0710.5335)]
 
