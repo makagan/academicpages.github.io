@@ -10,7 +10,7 @@ redirect_from:
   - /about/
   - /about.html
 feature_row:
-  - image_path: images/image-alignment-150x150.jpg
+  - image_path: ATLAS_4b_2018.png
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
