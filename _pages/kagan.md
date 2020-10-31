@@ -13,6 +13,8 @@ Michael Kagan is a Panofsky Fellow at the SLAC National Accelerator Laboratory a
 CV
 
 
+<br />
+
 # Funding
 
 I am currently funded by a DOE Early Career Award under Grant DE-AC02-76SF00515, and by the SLAC Panofsky Fellowship.
@@ -23,6 +25,8 @@ I am currently funded by a DOE Early Career Award under Grant DE-AC02-76SF00515,
 </p>
 
 
+
+<br />
 
 # Recent Talks
 
