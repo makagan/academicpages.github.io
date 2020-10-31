@@ -15,12 +15,16 @@ feature_row:
     title: "Higgs Physics"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: DIPS.png
-    alt: "Bottom Jet Tagging"
-    title: "b-tagging"
+    alt: "b-tagging"
+    title: "Jet Physics and Bottom Jet Tagging"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: DIPS.png
     alt: "Machine Learning"
-    title: "Machine Learning for Physics"
+    title: "ML for Physics"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: DIPS.png
+    alt: "Simulators"
+    title: "Simulators + ML"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
         
