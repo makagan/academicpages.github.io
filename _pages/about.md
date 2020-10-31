@@ -11,26 +11,24 @@ redirect_from:
   - /about.html
 feature_row:
   - image_path: ATLAS_4b_2018.png
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+    alt: "Higgs Physics"
+    title: "Higgs Physics"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: images/image-alignment-150x150.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+  - image_path: DIPS.png
+    alt: "Bottom Jet Tagging"
+    title: "b-tagging"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: images/image-alignment-150x150.jpg
-    title: "Placeholder 3"
+  - image_path: DIPS.png
+    alt: "Machine Learning"
+    title: "Machine Learning for Physics"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
         
+# Research Themes
 
 {% include feature_row %}
 
 
-# Research Themes
 
 ## Higgs Physics
 
