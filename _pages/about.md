@@ -30,69 +30,7 @@ feature_row:
         
 # Research Themes
 
+<br />
+
 {% include feature_row %}
 
-
-
-## Higgs Physics
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/ATLAS_4b_2018.png){: .align-left width="250px"}
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-## Bottom Quark Jet Identificaton
-
-![image-left]({{ site.url }}{{ site.baseurl }}/images/DIPS.png){: .align-left width="250px"}
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-## Simulation Based Inference and Black Box Optimization
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-## Differentiable Simulators
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-
-## Gaussian Processes for Background Estimation
-
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
