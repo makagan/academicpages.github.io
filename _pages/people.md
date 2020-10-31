@@ -13,7 +13,7 @@ redirect_from:
 ## Principle Investigator
 
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/IMG-20190426-WA0000.jpg){: .align-left width="150px"} [Michael Kagan](/kagan/)  <br /> Panofsky Fellow  <br /> SLAC National Accelerator Laboratory <br /> <ul class="author__urls social-icons"><li><a href="https://github.com/makagan"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li><li><a href="https://scholar.google.ch/citations?user=KtMij1EAAAAJ&hl=en"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li><li><a href="https://twitter.com/michael_a_kagan"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li></ul>  
+![image-left]({{ site.url }}{{ site.baseurl }}/images/IMG-20190426-WA0000.jpg){: .align-left width="150px"} [Michael Kagan](/kagan/)  <br /> Panofsky Fellow  <br /> SLAC National Accelerator Laboratory <br /> <ul><li><a href="https://github.com/makagan"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li><li><a href="https://scholar.google.ch/citations?user=KtMij1EAAAAJ&hl=en"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li><li><a href="https://twitter.com/michael_a_kagan"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li></ul>  
 
 
 <br />
