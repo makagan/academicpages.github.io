@@ -9,13 +9,32 @@ author_profile: false
 redirect_from: 
   - /about/
   - /about.html
+  -/home/
+feature_row:
+  - image_path: /images/ATLAS_4b_2018.png
+    alt: "Higgs"
+    title: "Higgs Physics"
+    excerpt: "Stuff about Higgs"
+  - image_path: /images/DIPS.png
+    alt: "Btag"
+    title: "Bottom Jet Tagging"
+    excerpt: "b-tagging stuff"
+  - image_path: /images/DIPS.png
+    alt: "MLPhysics"
+    title: "ML for Physics"
+    excerpt: "Machine Learning + Physics"
+ - image_path: /images/DIPS.png
+    alt: "Simulators"
+    title: "Simulators + Machine Learning"
+    excerpt: "Machine Learning + Simulators"
 ---
         
 
 
-
-
 # Research Themes
+
+{% include feature_row %}
+
 
 ## Higgs Physics
 
