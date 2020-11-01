@@ -12,7 +12,7 @@ author_profile: false
 * __University of Geneva__ <br /> Statistics for High Energy Physics Course, Guest Lecture Series (May, 2018)
 * __CERN__ <br /> Academic Lecture Series on Introduction to Machine Learning, Lecturer (April, 2017)
 * __Harvard__ <br /> Introduction to Waves, Graduate Teaching Assistant (Spring 2008) <br /> Introductory Electromagnetism, Graduate Teaching Assistant (Fall 2007)
-*__University of Michigan__ <br /> Introduction to Quantum Mechanics, Undegraduate Teaching Assistant (Spring 2006) <br /> Intermediate Electromagnetism, Undegraduate Teaching Assistant (Fall 2005)
+* __University of Michigan__ <br /> Introduction to Quantum Mechanics, Undegraduate Teaching Assistant (Spring 2006) <br /> Intermediate Electromagnetism, Undegraduate Teaching Assistant (Fall 2005)
 
 ## Public Lectures
 * __SLAC__ <br /> Science of SLAC Lecture Series, Lecturer (April 2015) <br /> SLAC Public Lecture Series, Lecturer (January 2015)
