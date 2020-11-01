@@ -25,8 +25,3 @@ I am currently funded by a DOE Early Career Award under Grant DE-AC02-76SF00515,
 </p>
 
 
-
-<br />
-
-# Recent Talks
-

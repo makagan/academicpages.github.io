@@ -69,6 +69,9 @@ ATLAS Collaboration, *Identification of Jets Containing b-Hadrons with Recurrent
 L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, *Jet-Images - Deep Learning Edition*, JHEP 07 (2016) 069. [[paper](https://link.springer.com/article/10.1007%2FJHEP07%282016%29069)] [[arXiv](https://arxiv.org/abs/1511.05190)]
 
 
+M. Kagan, L. de Oliveira, L. Mackey, B. Nachman, and A. Schwartzman, *Boosted Jet Tagging with Jet-Images and Deep Neural Networks.* Proceedings of the 2016 Connecting The Dots Workshop, EPJ Web Conf. 127 (2016) 00009. [[proceedings](https://www.epj-conferences.org/articles/epjconf/abs/2016/22/epjconf_dots2016_00009/epjconf_dots2016_00009.html)]
+
+
 ATLAS Collaboration, *Search for pair production of Higgs bosons in the bbbb final state using proton-proton collisions at sqrt(s) = 13 TeV with the ATLAS detector.*  Phys. Rev. D 94, 052002. [[paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.052002)]
 
 
