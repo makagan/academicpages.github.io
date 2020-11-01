@@ -65,15 +65,12 @@ redirect_from:
 Yoann Boget - Visiting Master Student from the University of Neuchatel <br />
 Currently: Ph.D. Student in Machine Learning at the University of Geneva <br />
 
-<br />
 
 Sean Mullane - Stanford Undergraduate Summer Research Assistant <br />
 Currently: Master Student in Applied Physics at Stanford <br />
 
-<br / >
 
 Ethan Villarama - CSU NUPAC CERN Summer Student Research Assistant <br />
 Currently: Ph.D. student in Physics at UCSD <br />
 
-<br />
 
