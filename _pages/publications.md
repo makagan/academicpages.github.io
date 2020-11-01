@@ -45,6 +45,8 @@ J. Albrecht, ..., M. Kagan, ..., E. Yazgan (HEP Software Foundation), *A Roadmap
 
 A. Radovic, M. Williams, D. Rousseau, M. Kagan, D. Bonacorsi, A. Himmel, A. Aurisano, K. Terao and T. Wongjirad, *Machine learning at the energy and intensity frontiers of particle physics*, Nature 560, 41-18 (2018). [[paper](https://www.nature.com/articles/s41586-018-0361-2)]
 
+ATLAS Collaboration, *Search for boosted resonances decaying to two b-quarks and produced in association with a jet at sqrt(s)=13 TeV with the ATLAS detector*, ATLAS Preliminary Result. [[ATLAS conference note](http://cdsweb.cern.ch/record/2649081)]
+
 IBL Collaboration, *Production and Integration of the ATLAS Insertable B-Layer*, JINST 13 T05008 (2018). [[paper](https://iopscience.iop.org/article/10.1088/1748-0221/13/05/T05008)] [[arXiv](https://arxiv.org/abs/1803.00844)]
 
 
