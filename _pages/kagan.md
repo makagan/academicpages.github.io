@@ -2,7 +2,7 @@
 layout: single
 permalink: /kagan/
 title: "Michael Kagan"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /about_kagan/
 ---
