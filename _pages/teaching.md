@@ -19,6 +19,7 @@ author_profile: false
 
 ## Summer Schools
 
+* __IN2P3 School of Statistics__, Lecturer (January 2021)
 * __ML-HEP Summer School__, Lecturer (July 2020)
 * __CERN OpenLab Summer Student Lecture Programme__, Lecturer (June 2019)
 * __XVI Summer School on Nuclear, Subnuclear, and Applied Physics__, Lecturer (May 2019)

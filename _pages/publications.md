@@ -9,10 +9,16 @@ redirect_from:
 
 
 
+### 2021
+
+M. Vandegar, M. Kagan, A. Wehenkel, G. Louppe, *Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference.* Accepted at AISTATS 2021. [[arXiv](https://arxiv.org/abs/2011.05836)] 
+
 
 ### 2020
 
-S. Shirobokov, V. Belavin, M. Kagan, A. Ustyuzhanin, A. Gunes Baydin, *Black-Box Optimization with Local Generative Surrogates.* Accepted at NeurIPS 2020. [[arXiv](https://arxiv.org/abs/2002.04632)]
+M. Kagan, *Image-Based jet Analysis.*  To appear in Artificial Intelligence for High Energy Physics, World Scientific Publishing. [[arXiv](https://arxiv.org/abs/2012.09719)]
+
+S. Shirobokov, V. Belavin, M. Kagan, A. Ustyuzhanin, A. Gunes Baydin, *Black-Box Optimization with Local Generative Surrogates.* Proceedings of NeurIPS 2020. [[arXiv](https://arxiv.org/abs/2002.04632)] [[code](https://github.com/shir994/L-GSO)]
 
 
 B. Di Marco, ..., M. Kagan, ..., R. Teixeira De Lima, ..., J. Zurita, *Higgs boson potential at colliders: Status and perspectives.*  Reviews in Physics (2020) 100045. [[paper](https://www.sciencedirect.com/science/article/pii/S2405428320300083?via%3Dihub)] [[arXiv](https://arxiv.org/abs/1910.00012)]
@@ -74,7 +80,7 @@ L. de Oliveira, M. Kagan, L. Mackey, B. Nachman, and A. Schwartzman, *Jet-Images
 M. Kagan, L. de Oliveira, L. Mackey, B. Nachman, and A. Schwartzman, *Boosted Jet Tagging with Jet-Images and Deep Neural Networks.* Proceedings of the 2016 Connecting The Dots Workshop, EPJ Web Conf. 127 (2016) 00009. [[proceedings](https://www.epj-conferences.org/articles/epjconf/abs/2016/22/epjconf_dots2016_00009/epjconf_dots2016_00009.html)]
 
 
-ATLAS Collaboration, *Search for pair production of Higgs bosons in the bbbb final state using proton-proton collisions at sqrt(s) = 13 TeV with the ATLAS detector.*  Phys. Rev. D 94, 052002. [[paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.052002)]
+ATLAS Collaboration, *Search for pair production of Higgs bosons in the bbbb final state using proton-proton collisions at sqrt(s) = 13 TeV with the ATLAS detector.*  Phys. Rev. D 94, 052002. [[paper](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.94.052002)][[arXiv](https://arxiv.org/abs/1606.04782)]
 
 
 ATLAS Collaboration, *Performance of b-Jet Identification in the ATLAS Experiment.* JINST 11 P04008 (2016). [[paper](https://iopscience.iop.org/article/10.1088/1748-0221/11/04/P04008)] [[arXiv](https://arxiv.org/abs/1512.01094)]

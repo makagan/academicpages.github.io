@@ -7,7 +7,9 @@ author_profile: false
 
 * __Applied Machine Learning Days: AI & Physics Track, EPFL, Switzerland__, Track Organizing Committee Lead, 2021
 * __Learning to Discover, Pascal Institute, France__, Oragnizing Committee, 2021
-* __ATLAS Di-Higgs Workshop: Prospects Track, CERN, Switzerland__, Track Convener, 2020
+* __ATLAS Di-Higgs Workshop: Prospects Track, CERN, Switzerland__,
+Track Convener, 2020
+* __Applied Machine Learning Days: AI & Physics Track, EPFL, Switzerland__, Track Organizing Committee, 2020
 * __ATLAS Joint Tracking and Flavour Tagging Workshop, DESY, Germany__, Organizing Committee Co-Lead, 2019
 * __ACAT: Data Analysis Track, Saas fee, Switzerland__, Track Convener, 2019
 * __2nd ATLAS Machine Learning workshop, CERN, Switzerland__, Organizing Committee Co-Lead, 2017
