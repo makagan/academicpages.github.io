@@ -12,7 +12,7 @@ redirect_from:
 feature_row:
   - image_path: ATLAS_4b_2018.png
     alt: "Higgs Physics"
-    title: "Higgs and Di-Higgs Physics"
+    title: "Higgs and Di-Higgs Physics           "
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: DIPS.png
     alt: "b-tagging"
@@ -24,7 +24,7 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: DIPS.png
     alt: "SBI"
-    title: "Simulation-Based Inference"
+    title: "Simulation-Based Inference         "
     excerpt: "This is some sample content that goes here with
     **Markdown** formatting."
   - image_path: DIPS.png
