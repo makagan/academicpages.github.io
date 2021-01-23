@@ -27,7 +27,7 @@ feature_row:
     title: "Simulators Based Inference"
     excerpt: "This is some sample content that goes here with
     **Markdown** formatting."
- - image_path: DIPS.png
+  - image_path: DIPS.png
     alt: "Diff-Sim"
     title: "Differentiable Simulators Based"
     excerpt: "This is some sample content that goes here with
