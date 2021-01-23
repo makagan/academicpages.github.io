@@ -12,11 +12,11 @@ redirect_from:
 feature_row:
   - image_path: ATLAS_4b_2018.png
     alt: "Higgs Physics"
-    title: "Higgs and Di-Higgs Physics           "
+    title: "Higgs and Di-Higgs Physics <br />"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: DIPS.png
     alt: "b-tagging"
-    title: "Heavy Flavor and Higgs Jet Tagging"
+    title: "<small>Heavy Flavor and Higgs Jet Tagging</small>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: DIPS.png
     alt: "Machine Learning"
