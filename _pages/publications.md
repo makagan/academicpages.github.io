@@ -16,7 +16,7 @@ M. Vandegar, M. Kagan, A. Wehenkel, G. Louppe, *Neural Empirical Bayes: Source D
 
 ### 2020
 
-M. Kagan, *Image-Based jet Analysis.*  To appear in Artificial Intelligence for High Energy Physics, World Scientific Publishing. [[arXiv](https://arxiv.org/abs/2012.09719)]
+M. Kagan, *Image-Based jet Analysis.*  Review to appear in Artificial Intelligence for High Energy Physics, World Scientific Publishing. [[arXiv](https://arxiv.org/abs/2012.09719)]
 
 S. Shirobokov, V. Belavin, M. Kagan, A. Ustyuzhanin, A. Gunes Baydin, *Black-Box Optimization with Local Generative Surrogates.* Proceedings of NeurIPS 2020. [[arXiv](https://arxiv.org/abs/2002.04632)] [[code](https://github.com/shir994/L-GSO)]
 

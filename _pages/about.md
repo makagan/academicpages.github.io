@@ -30,7 +30,9 @@ feature_row:
  - image_path: DIPS.png
     alt: "Diff-Sim"
     title: "Differentiable Simulators Based"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "This is some sample content that goes here with
+    **Markdown** formatting."
+	
 ---
         
 # Research Themes
