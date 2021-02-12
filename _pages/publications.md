@@ -11,12 +11,16 @@ redirect_from:
 
 ### 2021
 
+R. Teixeira de Lima, *Sequence-based Machine Learning Models in Jet Physics.*  Review to appear as book chapter in Artificial Intelligence for High Energy Physics, World Scientific Publishing. [[arXiv](https://arxiv.org/abs/2102.06128)]
+
 M. Vandegar, M. Kagan, A. Wehenkel, G. Louppe, *Neural Empirical Bayes: Source Distribution Estimation and its Applications to Simulation-Based Inference.* Accepted at AISTATS 2021. [[arXiv](https://arxiv.org/abs/2011.05836)] 
 
 
 ### 2020
 
-M. Kagan, *Image-Based jet Analysis.*  Review to appear in Artificial Intelligence for High Energy Physics, World Scientific Publishing. [[arXiv](https://arxiv.org/abs/2012.09719)]
+M. Kagan, *Image-Based jet Analysis.*  Review to appear as book chapter in Artificial Intelligence for High Energy Physics, World Scientific Publishing. [[arXiv](https://arxiv.org/abs/2012.09719)]
+
+R. Teixeira De Lima, *Accessing HH at ATLAS and CMS with the HL-LHC.* Proceedings of LHCP2020. [[proceedings](https://pos.sissa.it/382/082/)]
 
 S. Shirobokov, V. Belavin, M. Kagan, A. Ustyuzhanin, A. Gunes Baydin, *Black-Box Optimization with Local Generative Surrogates.* Proceedings of NeurIPS 2020. [[arXiv](https://arxiv.org/abs/2002.04632)] [[code](https://github.com/shir994/L-GSO)]
 
