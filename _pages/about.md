@@ -22,12 +22,12 @@ feature_row:
     alt: "Machine Learning"
     title: "<small>ML Based Particle Reconstruction</small>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: SBI_posterior.pdf
+  - image_path: SBI_posterior.png
     alt: "SBI"
     title: "<small>Simulation-Based Inference</small>"
     excerpt: "This is some sample content that goes here with
     **Markdown** formatting."
-  - image_path: DIPS.png
+  - image_path: diff_sim.png
     alt: "Diff-Sim"
     title: "<small>Differentiable Simulators</small>"
     excerpt: "This is some sample content that goes here with
