@@ -12,21 +12,22 @@ redirect_from:
 feature_row:
   - image_path: ATLAS_4b_2018.png
     alt: "Higgs Physics"
-    title: "<small>Higgs and Di-Higgs Physics</small>"
+    title: "<small>Higgs Physics</small>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: DIPS.png
+  - image_path: Hbb_fig_19.png
     alt: "b-tagging"
-    title: "<small>Heavy Flavor and Higgs Jet Tagging</small>"
+    title: "<small>Jet Tagging</small>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: DIPS.png
     alt: "Machine Learning"
     title: "<small>ML Based Particle Reconstruction</small>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: DIPS.png
+  - image_path: Posterior.pdf
     alt: "SBI"
     title: "<small>Simulation-Based Inference</small>"
     excerpt: "This is some sample content that goes here with
     **Markdown** formatting."
+	
   - image_path: DIPS.png
     alt: "Diff-Sim"
     title: "<small>Differentiable Simulators</small>"
