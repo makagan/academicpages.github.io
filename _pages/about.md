@@ -14,7 +14,7 @@ feature_row:
     alt: "Higgs Physics"
     title: "<small>Higgs Physics</small>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: Hbb_fig_19.png
+  - image_path: Hbb_fig.png
     alt: "b-tagging"
     title: "<small>Jet Tagging</small>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -22,7 +22,7 @@ feature_row:
     alt: "Machine Learning"
     title: "<small>ML Based Particle Reconstruction</small>"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: Posterior.pdf
+  - image_path: SBI_posterior.pdf
     alt: "SBI"
     title: "<small>Simulation-Based Inference</small>"
     excerpt: "This is some sample content that goes here with
